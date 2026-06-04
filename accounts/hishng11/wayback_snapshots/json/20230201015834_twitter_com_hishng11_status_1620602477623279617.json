@@ -1,0 +1,171 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1581249183972999169",
+    "conversation_id": "1620440990632013826",
+    "created_at": "2023-02-01T01:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2023-02-01T02:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1620602477623279617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1053600783734697985",
+          "start": 0,
+          "username": "HoshinoYuina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1620602477623279617",
+    "in_reply_to_user_id": "1053600783734697985",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1620440990632013826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshinoYuina 有点油……对不起想到那种自以为很霸道总裁的「女人，我命令你」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1581249183972999169",
+        "conversation_id": "1620440990632013826",
+        "created_at": "2023-02-01T01:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-01T02:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1620602477623279617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1053600783734697985",
+              "start": 0,
+              "username": "HoshinoYuina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1620602477623279617",
+        "in_reply_to_user_id": "1053600783734697985",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1620440990632013826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshinoYuina 有点油……对不起想到那种自以为很霸道总裁的「女人，我命令你」"
+      },
+      {
+        "attachments": {},
+        "author_id": "1053600783734697985",
+        "conversation_id": "1620440990632013826",
+        "created_at": "2023-01-31T15:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-31T15:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1620440990632013826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1620440990632013826",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 347,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想到之前我前男友讓我刪掉微信裡的擦邊照片，說女孩要自愛🚬我真覺得他素傻逼，還好我有點腦子把他刪了。這人還是個健全愛國逼..天天叫我別自殘，讓我拍手給他看我有沒有自殘😅然後因為我自殘所以他也自殘^^🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-15T11:42:54.000Z",
+        "description": "#郁娇#病み垢#自傷行為.。+∞簡中ok\n繁中ok日本語勉強ing英语机翻\n＞＜",
+        "id": "1581249183972999169",
+        "location": "七回目の修練の綺麗菱",
+        "name": "ritsu.doll",
+        "pinned_tweet_id": "1618422427511410688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590976792541638656/uKfAE69U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 190,
+          "listed_count": 0,
+          "tweet_count": 1147
+        },
+        "username": "hishng11",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-20T10:56:16.000Z",
+        "description": "這裡是小凜丨女高丨双子座丨intp丨雙相情感障礙丨混血丨自傷丨od丨罵人內容丨病み垢丨歡迎打賞丨騷擾NG⚠️丨+v🚪66丨男的不過門別私丨\n小號@Linkawaiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Linkawaiii"
+              }
+            ]
+          }
+        },
+        "id": "1053600783734697985",
+        "location": "天堂",
+        "name": "✝︎凛^✝︎【抗压特種兵版】",
+        "pinned_tweet_id": "1619404940191096833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618921248779829249/K6-zdMvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 70,
+          "listed_count": 1,
+          "tweet_count": 1008
+        },
+        "username": "HoshinoYuina",
+        "verified": false
+      }
+    ]
+  }
+}

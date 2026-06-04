@@ -1,0 +1,413 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 02 04:53:19 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          26,
+          38
+        ],
+        "text": "HazbinHotel"
+      },
+      {
+        "indices": [
+          39,
+          57
+        ],
+        "text": "HazbinHotelFanart"
+      },
+      {
+        "indices": [
+          58,
+          77
+        ],
+        "text": "HazbinHotelAlastor"
+      },
+      {
+        "indices": [
+          78,
+          93
+        ],
+        "text": "HazbinHotelVox"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/suDPfeB5En",
+        "expanded_url": "https://twitter.com/NebulaBunny/status/1587535752145035265/photo/1",
+        "id": 1587535310224867330,
+        "id_str": "1587535310224867330",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FggO9BpXwAIn0mO.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FggO9BpXwAIn0mO.jpg",
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1587535752145035265,
+        "source_status_id_str": "1587535752145035265",
+        "source_user_id": 1069652258298712064,
+        "source_user_id_str": "1069652258298712064",
+        "type": "photo",
+        "url": "https://t.co/suDPfeB5En"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1069652258298712064,
+        "id_str": "1069652258298712064",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "✨Nebula✨ 🐍💕",
+        "screen_name": "NebulaBunny"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/suDPfeB5En",
+        "expanded_url": "https://twitter.com/NebulaBunny/status/1587535752145035265/photo/1",
+        "id": 1587535310224867330,
+        "id_str": "1587535310224867330",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FggO9BpXwAIn0mO.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FggO9BpXwAIn0mO.jpg",
+        "sizes": {
+          "large": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1587535752145035265,
+        "source_status_id_str": "1587535752145035265",
+        "source_user_id": 1069652258298712064,
+        "source_user_id_str": "1069652258298712064",
+        "type": "animated_gif",
+        "url": "https://t.co/suDPfeB5En",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FggO9BpXwAIn0mO.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1587669159151820800,
+  "id_str": "1587669159151820800",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "in",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 01 20:03:12 +0000 2022",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            9,
+            21
+          ],
+          "text": "HazbinHotel"
+        },
+        {
+          "indices": [
+            22,
+            40
+          ],
+          "text": "HazbinHotelFanart"
+        },
+        {
+          "indices": [
+            41,
+            60
+          ],
+          "text": "HazbinHotelAlastor"
+        },
+        {
+          "indices": [
+            61,
+            76
+          ],
+          "text": "HazbinHotelVox"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/suDPfeB5En",
+          "expanded_url": "https://twitter.com/NebulaBunny/status/1587535752145035265/photo/1",
+          "id": 1587535310224867330,
+          "id_str": "1587535310224867330",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FggO9BpXwAIn0mO.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FggO9BpXwAIn0mO.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/suDPfeB5En"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/suDPfeB5En",
+          "expanded_url": "https://twitter.com/NebulaBunny/status/1587535752145035265/photo/1",
+          "id": 1587535310224867330,
+          "id_str": "1587535310224867330",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FggO9BpXwAIn0mO.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FggO9BpXwAIn0mO.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/suDPfeB5En",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FggO9BpXwAIn0mO.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 1038,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1587535752145035265,
+    "id_str": "1587535752145035265",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "in",
+    "place": null,
+    "possibly_sensitive": true,
+    "quote_count": 3,
+    "reply_count": 9,
+    "retweet_count": 260,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Bonk 🗞️\n\n#HazbinHotel #HazbinHotelFanart #HazbinHotelAlastor #HazbinHotelVox https://t.co/suDPfeB5En",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Dec 03 17:59:06 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "🔞NSFW MINORS DNI ❌Don't repost, edit, or trace my art ✨20 •🇦🇷 •I draw and animate! •C*mms closed •CEO of #SirPentious , multiship, ocassional kinky stuff ✨",
+      "favourites_count": 42719,
+      "follow_request_sent": null,
+      "followers_count": 5261,
+      "following": null,
+      "friends_count": 337,
+      "geo_enabled": false,
+      "id": 1069652258298712064,
+      "id_str": "1069652258298712064",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 35,
+      "location": null,
+      "name": "✨Nebula✨ 🐍💕",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069652258298712064/1661464392",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1547975052443865088/ie_wmd8P_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1547975052443865088/ie_wmd8P_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NebulaBunny",
+      "statuses_count": 5185,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @NebulaBunny: Bonk 🗞️\n\n#HazbinHotel #HazbinHotelFanart #HazbinHotelAlastor #HazbinHotelVox https://t.co/suDPfeB5En",
+  "timestamp_ms": "1667364799665",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sat Oct 15 11:42:54 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 1431,
+    "follow_request_sent": null,
+    "followers_count": 18,
+    "following": null,
+    "friends_count": 70,
+    "geo_enabled": false,
+    "id": 1581249183972999169,
+    "id_str": "1581249183972999169",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": "七回目の修練の綺麗菱",
+    "name": "ritsu.doll",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1587662604905783296/0ePUNYQ8_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1587662604905783296/0ePUNYQ8_normal.png",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "hishng11",
+    "statuses_count": 332,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1581249183972999169",
+    "conversation_id": "1622967108811513858",
+    "created_at": "2023-02-07T15:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2023-02-07T15:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1622977082824486914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383826917380411392",
+          "start": 0,
+          "username": "anQYCUtnSp894yz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1622977082824486914",
+    "in_reply_to_user_id": "1383826917380411392",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1622967108811513858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anQYCUtnSp894yz 寻找可以一起自残的朋友（虽然多半只有面基）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1581249183972999169",
+        "conversation_id": "1622967108811513858",
+        "created_at": "2023-02-07T15:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-07T15:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1622977082824486914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383826917380411392",
+              "start": 0,
+              "username": "anQYCUtnSp894yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1622977082824486914",
+        "in_reply_to_user_id": "1383826917380411392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1622967108811513858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anQYCUtnSp894yz 寻找可以一起自残的朋友（虽然多半只有面基）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1383826917380411392",
+        "conversation_id": "1622967108811513858",
+        "created_at": "2023-02-07T14:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-07T15:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1622967108811513858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1622967108811513858",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其實我學校吃完飯要在操場待20分鐘我也沒有朋友我自己一個人只能躲進去洗手間裡面自殘我能做些什麼還是現在我應該自殘自到我有朋友為止😂友友萌給點建議"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-15T11:42:54.000Z",
+        "description": "🚪♂门槛80#郁娇#病み垢#自傷行為.。+∞簡中ok\n繁中ok日本語勉強ing英语机翻\n＞＜",
+        "id": "1581249183972999169",
+        "location": "七回目の修練の綺麗菱",
+        "name": "ritsu.doll",
+        "pinned_tweet_id": "1618422427511410688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590976792541638656/uKfAE69U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 213,
+          "listed_count": 0,
+          "tweet_count": 1339
+        },
+        "username": "hishng11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-18T16:57:13.000Z",
+        "description": "自伤只占少部分，上学中。。HK 双性恋\n欢迎互fo☆☆我很依赖甜食\n我是女生我是自卑女我是凉席女，请不要骂我。。\n我是外貌协会的VVVVVVIPO(∩_∩)O~\n我不自残了\n请给我钱，我只接受口令红包\n我没开私信因为我讨厌被骂凸^-^凸\n我喜欢马卡龙，焦糖布丁，珍珠奶茶，可乐其他甜的！",
+        "id": "1383826917380411392",
+        "location": "猫岛",
+        "name": "A",
+        "pinned_tweet_id": "1587763908286173190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532960998469971969/hxJlgSPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 260,
+          "listed_count": 2,
+          "tweet_count": 1896
+        },
+        "username": "anQYCUtnSp894yz",
+        "verified": false
+      }
+    ]
+  }
+}

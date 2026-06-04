@@ -1,0 +1,82 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1581249183972999169",
+    "conversation_id": "1651834804533444608",
+    "created_at": "2023-04-28T06:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2023-04-28T06:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1651834804533444608"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1651834804533444608",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我什么都不会还门槛很高、因为社交很累不喜欢维持社交uu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1581249183972999169",
+        "conversation_id": "1651834804533444608",
+        "created_at": "2023-04-28T06:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-28T06:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1651834804533444608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1651834804533444608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我什么都不会还门槛很高、因为社交很累不喜欢维持社交uu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-15T11:42:54.000Z",
+        "description": "吞噬以爱为名的血液的蝙蝠小姐🦇\n🚪♂门槛80#郁娇#病み垢#自傷行為/shtwt.。+∞簡中ok\n繁中ok日本語勉強ing英语机翻\n＞＜",
+        "id": "1581249183972999169",
+        "location": "七回目の修練の綺麗菱",
+        "name": "めふき（接伤口定制）",
+        "pinned_tweet_id": "1618422427511410688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590976792541638656/uKfAE69U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 402,
+          "listed_count": 1,
+          "tweet_count": 3401
+        },
+        "username": "hishng11",
+        "verified": false
+      }
+    ]
+  }
+}

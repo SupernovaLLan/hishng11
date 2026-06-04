@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1581249183972999169",
+    "conversation_id": "1630215418265710593",
+    "created_at": "2023-02-28T15:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2023-02-28T16:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1630591543936516099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1432227365069852677",
+          "start": 0,
+          "username": "ching0728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1630591543936516099",
+    "in_reply_to_user_id": "1432227365069852677",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1630405041952813056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ching0728 谢谢！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1581249183972999169",
+        "conversation_id": "1630215418265710593",
+        "created_at": "2023-02-28T15:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-28T16:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1630591543936516099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1432227365069852677",
+              "start": 0,
+              "username": "ching0728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1630591543936516099",
+        "in_reply_to_user_id": "1432227365069852677",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1630405041952813056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ching0728 谢谢！！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1432227365069852677",
+        "conversation_id": "1630215418265710593",
+        "created_at": "2023-02-28T03:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-28T03:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1630405041952813056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581249183972999169",
+              "start": 0,
+              "username": "hishng11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1630405041952813056",
+        "in_reply_to_user_id": "1581249183972999169",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1630215418265710593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hishng11 一點也不噁心 很可愛啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-10-15T11:42:54.000Z",
+        "description": "吞噬以爱为名的血液的蝙蝠小姐🦇\n🚪♂门槛80#郁娇#病み垢#自傷行為.。+∞簡中ok\n繁中ok日本語勉強ing英语机翻\n＞＜",
+        "id": "1581249183972999169",
+        "location": "七回目の修練の綺麗菱",
+        "name": "めふき（接伤口定制）",
+        "pinned_tweet_id": "1618422427511410688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590976792541638656/uKfAE69U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 226,
+          "listed_count": 1,
+          "tweet_count": 1652
+        },
+        "username": "hishng11",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T06:23:20.000Z",
+        "description": "我看成分回關，或者直接私信也可以。不要罵我我是玻璃心。我是拜金女，喜歡錢。會有血圖但不重要，，，",
+        "id": "1432227365069852677",
+        "location": "男的沒錢就滾",
+        "name": "小戀戀戀戀",
+        "pinned_tweet_id": "1628469291438985216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628471030489694208/rj6A4tHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 452,
+          "listed_count": 1,
+          "tweet_count": 367
+        },
+        "username": "ching0728",
+        "verified": false
+      }
+    ]
+  }
+}

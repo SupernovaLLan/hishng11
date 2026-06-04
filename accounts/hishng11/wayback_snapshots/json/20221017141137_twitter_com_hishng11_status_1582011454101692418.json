@@ -1,0 +1,397 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 17 14:11:37 +0000 2022",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/WLJps5YuPg",
+        "expanded_url": "https://twitter.com/kanako_0223ff/status/1581980499408396289/video/1",
+        "id": 1581980417896300546,
+        "id_str": "1581980417896300546",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581980417896300546/pu/img/fE5CjcPRUPlQJLrF.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581980417896300546/pu/img/fE5CjcPRUPlQJLrF.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1581980499408396289,
+        "source_status_id_str": "1581980499408396289",
+        "source_user_id": 1455729682821771264,
+        "source_user_id_str": "1455729682821771264",
+        "type": "photo",
+        "url": "https://t.co/WLJps5YuPg"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1455729682821771264,
+        "id_str": "1455729682821771264",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "彈藥包",
+        "screen_name": "kanako_0223ff"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/WLJps5YuPg",
+        "expanded_url": "https://twitter.com/kanako_0223ff/status/1581980499408396289/video/1",
+        "id": 1581980417896300546,
+        "id_str": "1581980417896300546",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581980417896300546/pu/img/fE5CjcPRUPlQJLrF.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581980417896300546/pu/img/fE5CjcPRUPlQJLrF.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1581980499408396289,
+        "source_status_id_str": "1581980499408396289",
+        "source_user_id": 1455729682821771264,
+        "source_user_id_str": "1455729682821771264",
+        "type": "video",
+        "url": "https://t.co/WLJps5YuPg",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 20988,
+          "variants": [
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1581980417896300546/pu/vid/480x852/YD_xCnJyGceskeeQ.mp4?tag=12"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1581980417896300546/pu/vid/320x568/UUe7Vla6oVs21H72.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1581980417896300546/pu/pl/ye2voUIMHrSNTjo9.m3u8?tag=12&container=fmp4"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1581980417896300546/pu/vid/720x1280/59D6WTYEUaHElgRV.mp4?tag=12"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1582011454101692418,
+  "id_str": "1582011454101692418",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 17 12:08:37 +0000 2022",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/WLJps5YuPg",
+          "expanded_url": "https://twitter.com/kanako_0223ff/status/1581980499408396289/video/1",
+          "id": 1581980417896300546,
+          "id_str": "1581980417896300546",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581980417896300546/pu/img/fE5CjcPRUPlQJLrF.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581980417896300546/pu/img/fE5CjcPRUPlQJLrF.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WLJps5YuPg"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/WLJps5YuPg",
+          "expanded_url": "https://twitter.com/kanako_0223ff/status/1581980499408396289/video/1",
+          "id": 1581980417896300546,
+          "id_str": "1581980417896300546",
+          "indices": [
+            36,
+            59
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581980417896300546/pu/img/fE5CjcPRUPlQJLrF.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581980417896300546/pu/img/fE5CjcPRUPlQJLrF.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/WLJps5YuPg",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 20988,
+            "variants": [
+              {
+                "bitrate": 950000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1581980417896300546/pu/vid/480x852/YD_xCnJyGceskeeQ.mp4?tag=12"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1581980417896300546/pu/vid/320x568/UUe7Vla6oVs21H72.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1581980417896300546/pu/pl/ye2voUIMHrSNTjo9.m3u8?tag=12&container=fmp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1581980417896300546/pu/vid/720x1280/59D6WTYEUaHElgRV.mp4?tag=12"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 105,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1581980499408396289,
+    "id_str": "1581980499408396289",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "zh",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 3,
+    "reply_count": 14,
+    "retweet_count": 9,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "之后尸块妄想的大家会一起跳这个！我有点等不及先把自己的发出来了😬请夸我 https://t.co/WLJps5YuPg",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Nov 03 02:53:06 +0000 2021",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "世界上祇有一個kanako\n| 尸塊妄想组corpse delusion紅色擔當@corpse_delusion",
+      "favourites_count": 11037,
+      "follow_request_sent": null,
+      "followers_count": 9073,
+      "following": null,
+      "friends_count": 118,
+      "geo_enabled": false,
+      "id": 1455729682821771264,
+      "id_str": "1455729682821771264",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 13,
+      "location": null,
+      "name": "彈藥包",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455729682821771264/1662126222",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1580801669566062594/PykHmSYb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1580801669566062594/PykHmSYb_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "kanako_0223ff",
+      "statuses_count": 6748,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @kanako_0223ff: 之后尸块妄想的大家会一起跳这个！我有点等不及先把自己的发出来了😬请夸我 https://t.co/WLJps5YuPg",
+  "timestamp_ms": "1666015897666",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sat Oct 15 11:42:54 +0000 2022",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": null,
+    "favourites_count": 117,
+    "follow_request_sent": null,
+    "followers_count": 5,
+    "following": null,
+    "friends_count": 30,
+    "geo_enabled": false,
+    "id": 1581249183972999169,
+    "id_str": "1581249183972999169",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 0,
+    "location": null,
+    "name": "ritsu.doll",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1581270121225412609/No3i_U_C_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1581270121225412609/No3i_U_C_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "hishng11",
+    "statuses_count": 40,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}
